@@ -7,14 +7,18 @@
        layout="vertical">
       
       
-## Introduction
+## Introduction: From Squalor to Sanitation
 
-Introduction
+This exhibition explores the impact of epidemics on public health law. From plagues to the present, the display will look at the way public officials manage the spread of disease, as they try to understand the causes of illness.\
+\
+Uniquely placed near the epicentre of many of these historic pandemics, the Honourable Society of the Middle Temple observed the streets and sewers change around it- change implemented to improve public health and take London from squalor to sanitation.
+
 
 <param ve-image 
-       label="London Slum British Library" 
-       description="photograph" 
-       url="https://user-images.githubusercontent.com/110464039/204876970-7d859468-f7d8-469c-94b0-7b944ecc196d.jpg">
+       label="A woman dropping her porcelain tea-cup in horror upon discovering the monstrous contents of a magnified drop of Thames water; revealing the impurity of London drinking water. Coloured etching by W. Heath, 1828. Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works/qqcx38hr/images?id=pqx8k427)" 
+       description="illustration" 
+       url="https://user-images.githubusercontent.com/110464039/206760551-3b694e1c-6926-46ef-886b-5f598e3297c1.jpg">
+
 
 
 ## Paragraph 1
