@@ -57,8 +57,9 @@ Picture of Samuel Pepys courtesy of [National Portrait Gallery](https://www.npg.
        label="Plague broadsheet by John Dunstall, 1666."
        description="painting" 
        url="https://user-images.githubusercontent.com/110464039/206768880-faa48fdf-2267-413a-a157-7272ef012c27.JPG">
-                                                                                                              
-##John Scott, Narratives of two families exposed to the Great Plague of London, A.D. 1665, 1832
+
+
+## John Scott, Narratives of two families exposed to the Great Plague of London, A.D. 1665, 1832
 
 John Scott was the vicar of North Ferriby and minister of St. Mary’s, Hull in the early 19th century.  The vicar purchased a 1722 publication titled: Due Preparations for the Plague, as Well for Soul as Body from a London book stall around the late 18th century.\
 \
@@ -75,3 +76,34 @@ Deeply moved by the stories, Scott published this abridged version of the book, 
        label="Quote from Narratives of two families"
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/206768962-727b0c9f-04d8-4140-9823-fd1c18dca83b.JPG">
+
+
+## The Honourable Society of the Middle Temple, Minutes of Parliament, 13th June 1665
+
+The Inn cancelled the Summer Reading and dissolved commons on Tuesday, 13th June 1665 in response to the rise in plague cases. The gates and passages between Middle and Inner Temple were ordered to be ‘made up’.\
+\
+The Inn’s Parliament reconvened the following February once the royal court returned to London.
+
+<param ve-image 
+       label="Parliament Book featuring 13th June declaration to dissolve commons"
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/206769470-ba218bce-bad0-4b41-8b13-72b09b3673e0.JPG">
+
+
+## Great Fire of London, 1666
+
+On 2nd September 1666, a fire broke out in a bakery on Pudding Lane in London. The preceding summer was hot, dry and the strong winds of that night, combined with the densely packed timber buildings of the city, fuelled the fire and it spread quickly. It was brought under control 4 days later, but not before it destroyed over 13,000 homes, 87 churches and left 70,000 homeless.\
+\
+“A sad sight to see how the River looks: no houses nor church near it, to the Temple, where it stopped.”\
+-Pepys’ Diary 6th September 1666
+\
+The fire reached the Inns of Court, burning through Kings Bench Walk, stopping short of Middle Temple, though it did destroy Lamb Building. In the fire’s aftermath, an Act for rebuilding the City of London imposed better building regulations- homes were constructed of brick and stone, and to improve overcrowding upper levels were no longer permitted to jut out over the lower floors.\
+\
+It has also been suggested the fire helped “cleanse” the city of the plague, killing the rats and fleas carrying the disease; although, records show deaths continued to be recorded following the fire, and while devastating, a large portion of the city still remained untouched by fire.
+
+ ![The City of London page 80 Hollar's engraving of the great fire]()
+                                                                                                                  
+<param ve-compare curtain url="https://user-images.githubusercontent.com/110464039/206770503-286e7418-60b2-428c-89d7-16b485d9c190.JPG" label="The two artists’ depictions of London featured in this text illustrate the area of the city affected by the fire. The panorama of London, dated 1616, is an engraving by Claes Visscher (1586-1652) a Dutch painter and draughtsman. St. Paul’s Cathedral and the Globe Theatre are visible either side of the River Thames.
+In contrast, the Czech artist Wenceslaus Hollar's (1607-1677) illustration depicts the Great Fire raging across the north bank of the Thames." description="photograph">
+<param ve-compare url="https://user-images.githubusercontent.com/110464039/206770602-3f446155-82b5-4571-9abe-9d72e33c54e4.JPG" label="The two artists’ depictions of London featured in this text illustrate the area of the city affected by the fire. The panorama of London, dated 1616, is an engraving by Claes Visscher (1586-1652) a Dutch painter and draughtsman. St. Paul’s Cathedral and the Globe Theatre are visible either side of the River Thames.
+In contrast, the Czech artist Wenceslaus Hollar's (1607-1677) illustration depicts the Great Fire raging across the north bank of the Thames." description="photograph">
