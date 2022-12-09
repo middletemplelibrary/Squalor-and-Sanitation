@@ -25,7 +25,7 @@ Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works
 
 “The Pestilence being a contagious distemper, it is one of the first principles that every family should abstain, as much as possible, from conversing with others. When a house is infected with the plague, we shut it up.”\
 \
-- Scott, Narratives of two families exposed to the Great Plague of London, pg 6\
+-Scott, Narratives of two families exposed to the Great Plague of London, pg 6\
 \
 The Great Plague of 1665-1666 began in the overcrowded parish of St. Giles in the Field. By the end of the epidemic, 68,596 deaths were officially recorded in London; although, the capital’s true figure is likely closer to 100,000. At the time, many believed in the miasma theory- disease spread from smelling the “bad air” released from waste and decomposing material, while others believed it was a punishment from God.\
 \
@@ -45,7 +45,6 @@ Samuel Pepys (1633-1703) worked in the Navy and was a Member of Parliament. He w
 \
 “Today, I saw two or three houses marked with a red cross upon the doors, and “Lord have mercy upon us” written on them; which was a sad sight to me, as it was the first time I had seen this. It made me nervous.”\
 -Pepys’ Diary; 7th June 1665\
-\
 [Follow this link to read more of Pepys' Diary](https://gutenberg.org/ebooks/4200)
 \
 Picture of Samuel Pepys courtesy of [National Portrait Gallery](https://www.npg.org.uk/collections/search/portrait/mw04948/Samuel-Pepys?)
