@@ -100,8 +100,6 @@ On 2nd September 1666, a fire broke out in a bakery on Pudding Lane in London. T
 The fire reached the Inns of Court, burning through Kings Bench Walk, stopping short of Middle Temple, though it did destroy Lamb Building. In the fire’s aftermath, an Act for rebuilding the City of London imposed better building regulations- homes were constructed of brick and stone, and to improve overcrowding upper levels were no longer permitted to jut out over the lower floors.\
 \
 It has also been suggested the fire helped “cleanse” the city of the plague, killing the rats and fleas carrying the disease; although, records show deaths continued to be recorded following the fire, and while devastating, a large portion of the city still remained untouched by fire.
-
- ![The City of London page 80 Hollar's engraving of the great fire]()
                                                                                                                   
 <param ve-compare curtain url="https://user-images.githubusercontent.com/110464039/206770503-286e7418-60b2-428c-89d7-16b485d9c190.JPG" label="The two artists’ depictions of London featured in this text illustrate the area of the city affected by the fire. The panorama of London, dated 1616, is an engraving by Claes Visscher (1586-1652) a Dutch painter and draughtsman. St. Paul’s Cathedral and the Globe Theatre are visible either side of the River Thames.
 In contrast, the Czech artist Wenceslaus Hollar's (1607-1677) illustration depicts the Great Fire raging across the north bank of the Thames." description="photograph">
