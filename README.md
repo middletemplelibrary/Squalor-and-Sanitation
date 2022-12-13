@@ -15,7 +15,8 @@ Uniquely placed near the epicentre of many of these historic pandemics, the Hono
 Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works/qqcx38hr/images?id=pqx8k427) CC BY
 
 <param ve-image 
-       label="A woman dropping her porcelain tea-cup in horror upon discovering the monstrous contents of a magnified drop of Thames water; revealing the impurity of London drinking water. Coloured etching by W. Heath, 1828. 
+       label="Monster Soup is a famed image depicting a woman horrified by the impurity of the Thames River as seen through a magnified drop of water at the bottom of her teacup. The microcosm on display is dedicated to the London Water Companies and on the bottom border of the image are the words Monster Soup commonly called Thames Water, being a correct representation of the precious stuff doled out to us! 
+The man responsible for the image was William Heath (1795-1840), a Scottish comic artist. He produced many well-known pieces, Monster Soup being one, A Wellington Book, or the Head of the Army being another. Monster Soup was one of many artistic criticisms of the Thames." 
        description="illustration" 
        url="https://user-images.githubusercontent.com/110464039/206760551-3b694e1c-6926-46ef-886b-5f598e3297c1.jpg">
 
@@ -274,4 +275,20 @@ Map courtesy of the [Wellcome Collection](https://wellcomecollection.org/works/u
        
 ## The Great Stink, 1858 
 
+After decades of treating the River Thames as an open sewer, the problem became impossible to ignore in the summer of 1858.\
+\
+A hot summer, combined with raw sewage from the river produced a putrid smell. The Houses of Parliament soaked the curtains in chloride of lime to sequester the stench. Parliament could no longer maintain a laisse-faire approach to public health.\
+\
+In just 18 days, a bill was passed providing money to construct a massive new sewer scheme for London, and build an Embankment along the Thames to improve the flow of water and of traffic.\
+\
+“The Metropolitan Board shall cause to be commenced as soon as may be after the passing of the Act and to be carried on and completed with all convenient speed according to such plan as to them may seem proper the necessary Sewers and Works for the Improvement of the Main Drainage of the Metropolis, and for preventing as far as may be practicable, the sewage of the Metropolis from passing into the River Thames within the Metropolis.”\ 
+- Metropolis Local Management Amendment Act, 1855\
+\
+[Follow this link to view Hansard debate of this Amendment Act](https://api.parliament.uk/historic-hansard/commons/1858/jun/25/question-5)
 
+<param ve-image 
+       label="Eric de Maré (1910-2002) was an architectural photographer. His book The London Dore saw : a Victorian evocation, includes illustrations and maps of Victorian London. This image titled, ‘The ‘Silent Highway’ – Man’ was originally published in July of 1858 in Punch magazine- depicting a skeletal grim reaper rowing his boat down the Thames to claim the lives of those victims who did not pay to have the river cleaned."
+       description="illustration" 
+       url="https://user-images.githubusercontent.com/110464039/207347464-af0c61cb-89b1-455f-bb75-d1b0334183f1.JPG">
+       
+       
