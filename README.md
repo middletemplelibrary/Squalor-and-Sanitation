@@ -177,14 +177,14 @@ Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works
        label="Report to Her Majesty's principal secretary of state for the Home Department from the Poor Law Commissioners, on an inquiry into the sanitary condition of the labouring population of Great Britain; with appendices. Presented to both Houses of Parliament, by command of Her Majesty, July, 1842 by Edwin Chadwick"
        description="photograph" 
        url="https://iiif.wellcomecollection.org/image/L0008334/full/1338%2C/0/default.jpg">
-                                    
-                                    
+
+
 ## Hansard 1848, Public Health debate
                                     
 Edwin Chadwick’s Report on the Sanitary Condition of the Labouring Population of Great Britain recommended improving drainage and sewers, as well as providing clean drinking water. The report also said a medical officer should be appointed for each town.\
 \
 There was little government action immediately following the report; public officials cited concerns over costs and raising rates on citizens as reasons not to fund any large infrastructure projects. It was not until a devastating outbreak of cholera in Wales in 1848 that the Public Health Bill was introduced in Parliament.\
-\                                   
+\
 As the Public Health Bill was debated in Parliament there were ongoing concerns raised about the centralisation of power, which was incongruous to the laissez-faire philosophy of government at the time.\
 \
 “Centralisation dissolved the bonds of society; and the petitioners against this measure were aware of that fact. All the petitioners against this Bill for so-called sanitary reform, expressed themselves opposed to it, because it was a measure of centralisation. The fact was, centralisation was usurpation.”\
@@ -223,7 +223,7 @@ This haphazard sewer management continued into the 19th century. At this time, h
        label="The reading of the famous and learned Robert Callis"
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/207316265-bb558f99-f42a-4395-a5d2-70513a6c041d.JPG">             
-                                    
+
 
 ## Cholera Outbreaks, 1832, 1849 and 1854
                                     
@@ -244,9 +244,8 @@ Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works
 ## John Snow (1813-1858)
                                     
 John Snow is considered a pioneer of epidemiology. As a medical practitioner, he was interested in many areas of medicine, such as anaesthesia and respiratory diseases, but his most well-known work is the research he carried out during an outbreak of cholera in Soho, 1854.\
-\                                    
+\
 Unlike many at the time, he did not believe in the miasma theory, which posited disease spread through noxious air. During the Soho outbreak, he proved contaminated water was a likely spreader of the disease, after findings revealed a high mortality rate near a leaking cesspit that was affecting the local water supply.  
- ![Sir John Snow](https://user-images.githubusercontent.com/110464039/207321196-0df14783-f02c-41a9-ab85-effdf1444465.jpg)
                                    
 <param ve-image 
        label="John Snow, M.D. : a representative of medical science and art of the Victorian era / [Benjamin Ward Richardson]. 1887 CC BY"
@@ -280,7 +279,7 @@ A hot summer, combined with raw sewage from the river produced a putrid smell. T
 In just 18 days, a bill was passed providing money to construct a massive new sewer scheme for London, and build an Embankment along the Thames to improve the flow of water and of traffic.\
 \
 “The Metropolitan Board shall cause to be commenced as soon as may be after the passing of the Act and to be carried on and completed with all convenient speed according to such plan as to them may seem proper the necessary Sewers and Works for the Improvement of the Main Drainage of the Metropolis, and for preventing as far as may be practicable, the sewage of the Metropolis from passing into the River Thames within the Metropolis.”\ 
-- Metropolis Local Management Amendment Act, 1855\
+-Metropolis Local Management Amendment Act, 1855\
 \
 [Follow this link to view Hansard debate of this Amendment Act](https://api.parliament.uk/historic-hansard/commons/1858/jun/25/question-5)
 
@@ -346,13 +345,13 @@ A new embankment was developed along the North Bank of the River Thames to cover
 \
 A series of four letters between the Metropolitan Board of Works and the Inn are on display, discussing the design of the railing, as well as the public footpath created.\
 \
-1. Letter dated 12th May 1868: Joseph Bazalgette writing to the Inn’s Treasure, John Monk, asking for approval of a design for a fence between the Embankment roadway and the Temple lands.\
+Letter dated 12th May 1868: Joseph Bazalgette writing to the Inn’s Treasure, John Monk, asking for approval of a design for a fence between the Embankment roadway and the Temple lands.\
 \
-2. Letter dated 4th August 1868: Joseph Bazalgette writing to the Treasurer, enquiring about the Thames Embankment footway for public use through Middle Temple Land, and proposing a meeting on the subject.\
+Letter dated 4th August 1868: Joseph Bazalgette writing to the Treasurer, enquiring about the Thames Embankment footway for public use through Middle Temple Land, and proposing a meeting on the subject.\
 \
-3. Letter dated 28th April 1870: As work on the sewer nears completion, Joseph Bazalgette writes a follow-up letter to the Rt Hon Sir Robert Joseph Phillimore, Inn Treasure, requesting a decision on the matter, raised two years prior, of the design of the fence to be constructed between Embankment roadway and the Temple Lands.\
+Letter dated 28th April 1870: As work on the sewer nears completion, Joseph Bazalgette writes a follow-up letter to the Rt Hon Sir Robert Joseph Phillimore, Inn Treasure, requesting a decision on the matter, raised two years prior, of the design of the fence to be constructed between Embankment roadway and the Temple Lands.\
 \
-4. Letter dated 3rd May 1870: Burton Yeates & Hart and Park Nelson, representing the Inner and Middle Temples, write to Joseph Bazalgette, with the opinions of the two Benches on his design for a fence, expressing concern that boys may be able to climb over, and requesting a different design including an intermediate 'dog rail'.
+Letter dated 3rd May 1870: Burton Yeates & Hart and Park Nelson, representing the Inner and Middle Temples, write to Joseph Bazalgette, with the opinions of the two Benches on his design for a fence, expressing concern that boys may be able to climb over, and requesting a different design including an intermediate 'dog rail'.
 
 <param ve-image
        label="Letter dated 12th May 1868"
