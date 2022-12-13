@@ -33,8 +33,7 @@ Those who were able to leave the city did, including King Charles II and his Cou
 The government introduced some measures to prevent the plague from spreading, including “shutting up” (quarantining) plague victims in their homes for 40 days, marking their home with a red cross and having it guarded by a watchman. Public gatherings were also banned during this time and fires were lit in the street ‘to correct the air’ affirming the belief breathing smoke was better than miasma.
 
 <param ve-image 
-       label="Bills of Mortality recorded the causes of deaths and were published weekly. 7,000 Londoners died in a week at the plague’s peak.\
-       Diseases and casualties 15-22 August 1665. Image courtesy of the Wellcome Collection. Public Domain"
+       label="Diseases and casualties 15-22 August 1665. Bills of Mortality recorded the causes of deaths and were published weekly. 7,000 Londoners died in a week at the plague’s peak. Image courtesy of the Wellcome Collection. Public Domain"
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/206763023-27143057-fc8e-43dc-8b1b-e94fe420851c.jpg">
 
