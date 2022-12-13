@@ -3,7 +3,7 @@
 <param ve-config 
        title="Squalor to Sanitation"
        author="Middle Temple Library"
-       banner="" 
+       banner="https://user-images.githubusercontent.com/110464039/207357393-32092f90-5d8f-49fa-bc11-7e244357ee03.jpg" 
        layout="vertical">
       
       
@@ -15,11 +15,9 @@ Uniquely placed near the epicentre of many of these historic pandemics, the Hono
 Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works/qqcx38hr/images?id=pqx8k427) CC BY
 
 <param ve-image 
-       label="Monster Soup is a famed image depicting a woman horrified by the impurity of the Thames River as seen through a magnified drop of water at the bottom of her teacup. The microcosm on display is dedicated to the London Water Companies and on the bottom border of the image are the words Monster Soup commonly called Thames Water, being a correct representation of the precious stuff doled out to us!\ 
-The man responsible for the image was William Heath (1795-1840), a Scottish comic artist. He produced many well-known pieces, Monster Soup being one, A Wellington Book, or the Head of the Army being another. Monster Soup was one of many artistic criticisms of the Thames." 
+       label="Monster Soup is a famed image depicting a woman horrified by the impurity of the Thames River as seen through a magnified drop of water at the bottom of her teacup. The microcosm on display is dedicated to the London Water Companies and on the bottom border of the image are the words Monster Soup commonly called Thames Water, being a correct representation of the precious stuff doled out to us! The man responsible for the image was William Heath (1795-1840), a Scottish comic artist. He produced many well-known pieces, Monster Soup being one, A Wellington Book, or the Head of the Army being another. Monster Soup was one of many artistic criticisms of the Thames." 
        description="illustration" 
        url="https://user-images.githubusercontent.com/110464039/206760551-3b694e1c-6926-46ef-886b-5f598e3297c1.jpg">
-
 
 
 ## Great Plague 1665-1666
@@ -292,3 +290,86 @@ In just 18 days, a bill was passed providing money to construct a massive new se
        url="https://user-images.githubusercontent.com/110464039/207347464-af0c61cb-89b1-455f-bb75-d1b0334183f1.JPG">
        
        
+## Memorandum to the Under-Treasurer requesting chloride of lime for the Library during the Great Stink, 25 June 1858 
+
+On 25 June, a memorandum was sent to the Under-Treasurer reporting that the Librarian was, 'in common with the gentlemen frequenting the Library, greatly annoyed by the offensive state of the Thames water', and requesting that chloride of lime be placed in the Library.
+
+<param ve-image 
+       label="Memorandum to the Under-Treasurer, 25 June 1858"
+       description="illustration" 
+       url="https://user-images.githubusercontent.com/110464039/207351976-945fdbd1-dfcd-4245-b819-f2364e38d918.JPG">
+       
+       
+## Joseph Bazalgette (1819-1891)
+
+Sir Joseph Bazalgette was the civil engineer charged with developing London’s new drainage system. Work on the ambitious project began in 1859, and the project was complete by 1875. The new sewers drastically improved Londoners’ health and much of the system is still in use today. It also physically changed the appearance of riverside London and the River Thames.\
+\
+150 years later Bazalgette’s sewers are no longer sufficient to adequately carry the sewage that leaves the city and once again, the Thames River is the recipient of overflow. A private enterprise project, Tideway, is now charged with building a 25km super sewer under the capital, creating seven new embankment spaces, including one to be named the Bazalgette Embankment. 
+
+<param ve-image 
+       label="Sir Joseph William Bazalgette by Lock & Whitfield Woodburytype on paper mount, 1877 or before Image courtesy of the National Portrait Gallery CC BY"
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/207353327-f5189abe-bcb9-4928-84e4-8295fd29b4e5.jpg">
+       
+       
+## London in 1850. The Temple 
+
+Wood engraving of the Temple in 1850 from the Thames. Includes Middle Temple Hall, Temple Gardens, Crown Office Row, New Paper Buildings and Kings Bench Walk.
+An annotation in the bottom right of the secondary support reads 'The London Journal 1850'.\
+\
+This image illustrates the River Thames prior to the construction of Bazalgette’s sewer.
+
+<param ve-image 
+       label="London in 1850"
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/207354767-c474479b-4ade-4a4d-be6a-a7bb4643d6fd.jpg">
+       
+       
+## 'Progress of the Thames Embankment at the Temple Gardens', wood-engraving, 1865 
+
+Wood engraving of the progress of the Thames Embankment works at Temple Gardens\
+\
+R.C. Hulme' is printed in the bottom left of the image and 'M. Jackson' is printed in the bottom right of the image. 
+From 'The Illustrated London News', 4 February 1865, p.112.\
+\
+Depicts the sewer’s progress. The former Middle Temple Library is in view on the right hand side of the picture.
+
+<param ve-image 
+       label="Progress of Thames Embankment"
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/207355542-07a3bfdc-1baf-40d6-bd81-4b52ef035235.jpg">
+
+
+## Letters between Metropolitan Board of Works and the Inn, 1868-1870
+
+A new embankment was developed along the North Bank of the River Thames to cover sewerage and a new underground railway. The Thames Embankment Act 1862 allowed for the development of the land, which included property belonging to the Inns. The Act reserved part of the bank for the use of members of the Inner and Middle Temple. It also required the Metropolitan Board of Works to construct a railing between the Embankment Roadway and Temple Lands.\
+\
+A series of four letters between the Metropolitan Board of Works and the Inn are on display, discussing the design of the railing, as well as the public footpath created.\
+\
+1. Letter dated 12th May 1868: Joseph Bazalgette writing to the Inn’s Treasure, John Monk, asking for approval of a design for a fence between the Embankment roadway and the Temple lands.\
+\
+2. Letter dated 4th August 1868: Joseph Bazalgette writing to the Treasurer, enquiring about the Thames Embankment footway for public use through Middle Temple Land, and proposing a meeting on the subject.\
+\
+3. Letter dated 28th April 1870: As work on the sewer nears completion, Joseph Bazalgette writes a follow-up letter to the Rt Hon Sir Robert Joseph Phillimore, Inn Treasure, requesting a decision on the matter, raised two years prior, of the design of the fence to be constructed between Embankment roadway and the Temple Lands.\
+\
+4. Letter dated 3rd May 1870: Burton Yeates & Hart and Park Nelson, representing the Inner and Middle Temples, write to Joseph Bazalgette, with the opinions of the two Benches on his design for a fence, expressing concern that boys may be able to climb over, and requesting a different design including an intermediate 'dog rail'.
+
+<param ve-image
+       label="Letter dated 12th May 1868"
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/207356155-a1f45d54-7003-4108-9f4f-a64ef14671b6.JPG">
+      
+<param ve-image
+       label="Letter dated 4th August 1868"
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/207356395-9f4b948d-6c06-40b1-a3ed-7fa5840719ce.JPG">
+      
+<param ve-image
+       label="Letter dated 28th April 1870"
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/207356586-f84e7c5b-db40-47d7-bb4a-6611671eab42.JPG">
+      
+<param ve-image
+       label="Letter dated 3rd May 1870"
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/207356815-3ff06fa4-e6f1-4624-b0bc-f81f849da905.JPG">
