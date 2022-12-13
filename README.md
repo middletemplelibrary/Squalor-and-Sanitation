@@ -94,7 +94,7 @@ The Inn’s Parliament reconvened the following February once the royal court re
 On 2nd September 1666, a fire broke out in a bakery on Pudding Lane in London. The preceding summer was hot, dry and the strong winds of that night, combined with the densely packed timber buildings of the city, fuelled the fire and it spread quickly. It was brought under control 4 days later, but not before it destroyed over 13,000 homes, 87 churches and left 70,000 homeless.\
 \
 “A sad sight to see how the River looks: no houses nor church near it, to the Temple, where it stopped.”\
--Pepys’ Diary 6th September 1666
+-Pepys’ Diary 6th September 1666\
 \
 The fire reached the Inns of Court, burning through Kings Bench Walk, stopping short of Middle Temple, though it did destroy Lamb Building. In the fire’s aftermath, an Act for rebuilding the City of London imposed better building regulations- homes were constructed of brick and stone, and to improve overcrowding upper levels were no longer permitted to jut out over the lower floors.\
 \
@@ -217,7 +217,7 @@ Robert Callis was a barrister and commissioner of sewers for the county of Linco
 \
 Sewers during Henry VIII’s time referred to any watercourse used to drain land, nothing to do with removing urban waste. This early piece of legislation strengthened the power of the commissioners of sewers, in charge of keeping the tunnels in their district in good repair. There were eight different groups of commissioners; unfortunately, with no uniform oversight there was no common maintenance standard nor was there a map indicating the location of the city’s sewers.\ 
 \
-This haphazard sewer management continued into the 19th century. At this time, human waste was dumped into brick-lined cesspits, emptied by the ‘night-soil men,’ who took the waste and sold it to nearby farms as fertilizer. Although wealthier families had indoor, flushing toilets, the sewage from London properties was dumped directly into the River Thames.\
+This haphazard sewer management continued into the 19th century. At this time, human waste was dumped into brick-lined cesspits, emptied by the ‘night-soil men,’ who took the waste and sold it to nearby farms as fertilizer. Although wealthier families had indoor, flushing toilets, the sewage from London properties was dumped directly into the River Thames.
 
 <param ve-image 
        label="The reading of the famous and learned Robert Callis"
