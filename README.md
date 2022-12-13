@@ -12,7 +12,7 @@
 This exhibition explores the impact of epidemics on public health law. From plagues to the present, the display will look at the way public officials manage the spread of disease, as they try to understand the causes of illness.\
 \
 Uniquely placed near the epicentre of many of these historic pandemics, the Honourable Society of the Middle Temple observed the streets and sewers change around it- change implemented to improve public health and take London from squalor to sanitation.\
-Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works/qqcx38hr/images?id=pqx8k427)" 
+Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works/qqcx38hr/images?id=pqx8k427) CC BY
 
 <param ve-image 
        label="A woman dropping her porcelain tea-cup in horror upon discovering the monstrous contents of a magnified drop of Thames water; revealing the impurity of London drinking water. Coloured etching by W. Heath, 1828. 
@@ -46,7 +46,7 @@ Samuel Pepys (1633-1703) worked in the Navy and was a Member of Parliament. He w
 -Pepys’ Diary; 7th June 1665\
 [Follow this link to read more of Pepys' Diary](https://gutenberg.org/ebooks/4200)\
 \
-Picture of Samuel Pepys courtesy of [National Portrait Gallery](https://www.npg.org.uk/collections/search/portrait/mw04948/Samuel-Pepys?)
+Picture of Samuel Pepys courtesy of [National Portrait Gallery](https://www.npg.org.uk/collections/search/portrait/mw04948/Samuel-Pepys?) CC BY
 
 <param ve-image 
        label="Samuel Pepys, by John Hayls, 1666."
@@ -117,7 +117,7 @@ Thomas Pennant (1726-1798) was a writer, antiquarian and naturalist; British Zoo
 “Great as this calamity [Great Fire] was, yet it proved the providential cause of putting a stop to one of a far more tremendous nature. The plague, which, for a series of ages, had, with very short intervals, visited our capital in its most dreadful forms, never appeared there again after the rebuilding of the city in a more open and airy manner, which removed several nuisances; which, if not the actual origin of a plague, was assuredly one great pabulum, when it seized our streets.”\
 -Pennant, Of London, pg 303\
 \
-Image of Pennant © [National Portrait Gallery](https://www.npg.org.uk/collections/search/portrait/mw75869/Thomas-Pennant?)
+Image of Pennant © [National Portrait Gallery](https://www.npg.org.uk/collections/search/portrait/mw75869/Thomas-Pennant?) CC BY
 
 <param ve-image 
        label="Thomas Pennant by and published by Peter Mazell, and by John Keyse Sherwin, after Thomas Gainsborough line engraving, published 20 June 1787"
@@ -154,7 +154,7 @@ Chadwick had a keen interest in the various social problems of London, but his v
 \
 In 1831, when doctors were confounded by the spread of cholera, the government ordered an enquiry and Chadwick’s investigation culminated in a Report on the Sanitary Conditions of the Labouring Poor. His findings demonstrated a correlation between unsanitary living conditions and high mortality rates. The report also made recommendations to the government to improve the situation.\
 \
-Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works/x5b2a9uh/images?id=j5qxfdyd)
+Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works/x5b2a9uh/images?id=j5qxfdyd) CC BY
 
 <param ve-image 
        label="Sir Edwin Chadwick. Photograph by John & Chas. Watkins."
@@ -179,3 +179,64 @@ Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works
        description="photograph" 
        url="https://iiif.wellcomecollection.org/image/L0008334/full/1338%2C/0/default.jpg">
                                     
+                                    
+## Hansard 1848, Public Health debate
+                                    
+Edwin Chadwick’s Report on the Sanitary Condition of the Labouring Population of Great Britain recommended improving drainage and sewers, as well as providing clean drinking water. The report also said a medical officer should be appointed for each town.\
+\
+There was little government action immediately following the report; public officials cited concerns over costs and raising rates on citizens as reasons not to fund any large infrastructure projects. It was not until a devastating outbreak of cholera in Wales in 1848 that the Public Health Bill was introduced in Parliament.\
+\                                   
+As the Public Health Bill was debated in Parliament there were ongoing concerns raised about the centralisation of power, which was incongruous to the laissez-faire philosophy of government at the time.\
+\
+“Centralisation dissolved the bonds of society; and the petitioners against this measure were aware of that fact. All the petitioners against this Bill for so-called sanitary reform, expressed themselves opposed to it, because it was a measure of centralisation. The fact was, centralisation was usurpation.”\
+-Colonel Sibthorp of Lincoln, Hansard 1848 Vol. 98 Col. 713
+
+<param ve-image 
+       label="Hansard 1848, Public Health Bill debate"
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/207315165-1004ac9d-5aba-43be-a231-f42c23fdda4e.JPG">
+                                    
+
+## The Statutes of the United Kingdom of Great Britain and Ireland, 1849
+                                    
+The Public Health Act 1848 received Royal Assent on 31st August 1848. The Act established a Central Board of Health, with the responsibility of improving living conditions in ‘towns and populous places’ in England and Wales by establishing local boards of health.\
+\
+The boards of health were charged with providing clean water, sewerage, paving and rubbish collection, but with little funding and enforcement powers the Act was ineffective in elevating the sanitary conditions. Despite this, the Act is still regarded as an important shift in societal thinking about the government’s role in ensuring a standard of health.
+
+<param ve-image 
+       label="Public Health Act 1848"
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/207315798-9d8029a4-04df-4f52-855d-119ed9b342e6.JPG">
+                                    
+                                    
+## Robert Callis, The reading of that famous and learned gentleman, Robert Callis Esq; sergeant at law, upon the statute of 23 H.8. Cap. 5. of sewers: as it was delivered by him at Grays-Inn, in August, 1622, 1824 
+                                    
+Robert Callis: ‘we must conceive that these laws of Sewers are of great and urgent necessity and use for the good of the whole Commonwealth of the Realm.’\
+-Callis, Reading on the Law of Sewers, pg 118-119\
+\
+Robert Callis was a barrister and commissioner of sewers for the county of Lincolnshire. In 1622 at Gray’s Inn, he delivered his famous reading of an older statute- the Bill of Sewers, passing during the time of Henry VIII in 1531.\
+\
+Sewers during Henry VIII’s time referred to any watercourse used to drain land, nothing to do with removing urban waste. This early piece of legislation strengthened the power of the commissioners of sewers, in charge of keeping the tunnels in their district in good repair. There were eight different groups of commissioners; unfortunately, with no uniform oversight there was no common maintenance standard nor was there a map indicating the location of the city’s sewers.\ 
+\
+This haphazard sewer management continued into the 19th century. At this time, human waste was dumped into brick-lined cesspits, emptied by the ‘night-soil men,’ who took the waste and sold it to nearby farms as fertilizer. Although wealthier families had indoor, flushing toilets, the sewage from London properties was dumped directly into the River Thames.\
+
+<param ve-image 
+       label="The reading of the famous and learned Robert Callis"
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/207316265-bb558f99-f42a-4395-a5d2-70513a6c041d.JPG">             
+                                    
+
+## Cholera Outbreaks, 1832, 1849 and 1854
+                                    
+Three major outbreaks of cholera occurred in the 19th century. Beginning in 1831, cholera arrived on the shores of England as British troops returned from the Indian sub-continent to Europe.\
+\
+Cholera was a frightening and confounding disease with a long list of ghastly symptoms, which included vomiting, diarrhoea, and dehydration. Doctors had little or no experience of the disease, which limited their ability to understand it or stop its transmission. Referred to as Asiatic cholera, the disease was presented as a foreign invasion.\
+\
+A major outbreak of cholera occurred in Soho, London, in August 1854- killing over 600 within a month. This was the third cholera outbreak in London, having previously occurred in 1832 and 1849.\
+\
+Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works/e2x7excu/images?id=yewjt386)                                  
+
+<param ve-image 
+       label="A court for King Cholera"
+       description="illustration" 
+       url="https://iiif.wellcomecollection.org/image/L0086428/full/1338%2C/0/default.jpg">   
