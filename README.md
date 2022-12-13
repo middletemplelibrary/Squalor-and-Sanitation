@@ -15,7 +15,7 @@ Uniquely placed near the epicentre of many of these historic pandemics, the Hono
 Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works/qqcx38hr/images?id=pqx8k427) CC BY
 
 <param ve-image 
-       label="Monster Soup is a famed image depicting a woman horrified by the impurity of the Thames River as seen through a magnified drop of water at the bottom of her teacup. The microcosm on display is dedicated to the London Water Companies and on the bottom border of the image are the words Monster Soup commonly called Thames Water, being a correct representation of the precious stuff doled out to us! 
+       label="Monster Soup is a famed image depicting a woman horrified by the impurity of the Thames River as seen through a magnified drop of water at the bottom of her teacup. The microcosm on display is dedicated to the London Water Companies and on the bottom border of the image are the words Monster Soup commonly called Thames Water, being a correct representation of the precious stuff doled out to us!\ 
 The man responsible for the image was William Heath (1795-1840), a Scottish comic artist. He produced many well-known pieces, Monster Soup being one, A Wellington Book, or the Head of the Army being another. Monster Soup was one of many artistic criticisms of the Thames." 
        description="illustration" 
        url="https://user-images.githubusercontent.com/110464039/206760551-3b694e1c-6926-46ef-886b-5f598e3297c1.jpg">
