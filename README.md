@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Squalor and Sanitation"
+       title="Squalor to Sanitation"
        author="Middle Temple Library"
        banner="" 
        layout="vertical">
