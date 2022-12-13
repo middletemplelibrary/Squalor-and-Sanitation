@@ -33,7 +33,8 @@ Those who were able to leave the city did, including King Charles II and his Cou
 The government introduced some measures to prevent the plague from spreading, including “shutting up” (quarantining) plague victims in their homes for 40 days, marking their home with a red cross and having it guarded by a watchman. Public gatherings were also banned during this time and fires were lit in the street ‘to correct the air’ affirming the belief breathing smoke was better than miasma.
 
 <param ve-image 
-       label="Bills of Mortality recorded the causes of deaths and were published weekly. 7,000 Londoners died in a week at the plague’s peak."
+       label="Bills of Mortality recorded the causes of deaths and were published weekly. 7,000 Londoners died in a week at the plague’s peak.\
+       Diseases and casualties 15-22 August 1665. Image courtesy of the Wellcome Collection. Public Domain"
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/206763023-27143057-fc8e-43dc-8b1b-e94fe420851c.jpg">
 
@@ -99,11 +100,10 @@ On 2nd September 1666, a fire broke out in a bakery on Pudding Lane in London. T
 \
 The fire reached the Inns of Court, burning through Kings Bench Walk, stopping short of Middle Temple, though it did destroy Lamb Building. In the fire’s aftermath, an Act for rebuilding the City of London imposed better building regulations- homes were constructed of brick and stone, and to improve overcrowding upper levels were no longer permitted to jut out over the lower floors.\
 \
-It has also been suggested the fire helped “cleanse” the city of the plague, killing the rats and fleas carrying the disease; although, records show deaths continued to be recorded following the fire, and while devastating, a large portion of the city still remained untouched by fire.
-![The City of London page 80 Hollar's engraving of the great fire]()
-
+It has also been suggested the fire helped “cleanse” the city of the plague, killing the rats and fleas carrying the disease; although, records show deaths continued to be recorded following the fire, and while devastating, a large portion of the city still remained untouched by fire.\
+\
+The two artists’ depictions of London illustrate the area of the city affected by the fire. The panorama of London, dated 1616, is an engraving by Claes Visscher (1586-1652) a Dutch painter and draughtsman. St. Paul’s Cathedral and the Globe Theatre are visible either side of the River Thames.\
+In contrast, the Czech artist Wenceslaus Hollar's (1607-1677) illustration depicts the Great Fire raging across the north bank of the Thames.
                                                                                                                   
-<param ve-compare curtain url="https://user-images.githubusercontent.com/110464039/207289262-96e9240c-b2dd-4bdb-8b24-ba5cf180dbce.JPG" label="The two artists’ depictions of London featured in this text illustrate the area of the city affected by the fire. The panorama of London, dated 1616, is an engraving by Claes Visscher (1586-1652) a Dutch painter and draughtsman. St. Paul’s Cathedral and the Globe Theatre are visible either side of the River Thames.
-In contrast, the Czech artist Wenceslaus Hollar's (1607-1677) illustration depicts the Great Fire raging across the north bank of the Thames." description="photograph">
-<param ve-compare url="https://user-images.githubusercontent.com/110464039/207289391-f89c2467-3e9f-4508-8ea9-aafbd881a266.JPG" label="The two artists’ depictions of London featured in this text illustrate the area of the city affected by the fire. The panorama of London, dated 1616, is an engraving by Claes Visscher (1586-1652) a Dutch painter and draughtsman. St. Paul’s Cathedral and the Globe Theatre are visible either side of the River Thames.
-In contrast, the Czech artist Wenceslaus Hollar's (1607-1677) illustration depicts the Great Fire raging across the north bank of the Thames." description="photograph">
+<param ve-compare curtain url="https://user-images.githubusercontent.com/110464039/207289262-96e9240c-b2dd-4bdb-8b24-ba5cf180dbce.JPG" label="Visscher's engraving" description="photograph">
+<param ve-compare url="https://user-images.githubusercontent.com/110464039/207289391-f89c2467-3e9f-4508-8ea9-aafbd881a266.JPG" label="Hollar's illustration" description="photograph">
