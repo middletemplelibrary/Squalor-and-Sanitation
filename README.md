@@ -171,7 +171,7 @@ Edwin Chadwick’s Report on the Sanitary Conditions of the Labouring Poor would
 \
 The report made clear that sanitation was key to controlling disease and defective supply of water would hinder cleanliness. Chadwick recommended government intervention to provide clean water and drainage systems. The Poor Law Commission for whom Chadwick worked did not take kindly to the report and distanced themselves from it. Still, Chadwick’s findings would contribute towards the Public Health Act of 1848, which would provide local authorities a framework within which they could administrate better public health. The report itself would be seen as a major contribution to social reform politics.\
 \
-Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works/rjddxkae) Public Domain\ 
+Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works/rjddxkae) Public Domain\
 [Follow this link to see Chadwick's report](https://www.gutenberg.org/files/54646/54646-h/54646-h.htm)
 
 <param ve-image 
@@ -179,6 +179,3 @@ Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works
        description="photograph" 
        url="https://iiif.wellcomecollection.org/image/L0008334/full/1338%2C/0/default.jpg">
                                     
-
-
-                                                                                                          
