@@ -234,9 +234,44 @@ Cholera was a frightening and confounding disease with a long list of ghastly sy
 \
 A major outbreak of cholera occurred in Soho, London, in August 1854- killing over 600 within a month. This was the third cholera outbreak in London, having previously occurred in 1832 and 1849.\
 \
-Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works/e2x7excu/images?id=yewjt386)                                  
+Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works/e2x7excu/images?id=yewjt386) CC BY                            
 
 <param ve-image 
        label="A court for King Cholera"
        description="illustration" 
        url="https://iiif.wellcomecollection.org/image/L0086428/full/1338%2C/0/default.jpg">   
+                                    
+                                    
+## John Snow (1813-1858)
+                                    
+John Snow is considered a pioneer of epidemiology. As a medical practitioner, he was interested in many areas of medicine, such as anaesthesia and respiratory diseases, but his most well-known work is the research he carried out during an outbreak of cholera in Soho, 1854.\
+\                                    
+Unlike many at the time, he did not believe in the miasma theory, which posited disease spread through noxious air. During the Soho outbreak, he proved contaminated water was a likely spreader of the disease, after findings revealed a high mortality rate near a leaking cesspit that was affecting the local water supply.  
+ ![Sir John Snow](https://user-images.githubusercontent.com/110464039/207321196-0df14783-f02c-41a9-ab85-effdf1444465.jpg)
+                                   
+<param ve-image 
+       label="John Snow, M.D. : a representative of medical science and art of the Victorian era / [Benjamin Ward Richardson]. 1887 CC BY"
+       description="illustration" 
+       url="https://user-images.githubusercontent.com/110464039/207321196-0df14783-f02c-41a9-ab85-effdf1444465.jpg">   
+                                    
+                                    
+## John Snow, Map from a Report on the cholera outbreak in the Parish of St. James, Westminster, during the autumn of 1854, 1855
+                                    
+John Snow was a resident of Soho during the cholera outbreak of 1854. His proximity to the epidemic provided an opportunity to triangulate the source of the spread. He mapped the deaths caused by the disease until a pattern formed pointing towards the Broad Street (now Broadwick) pump.\
+\
+Snow convinced local authorities the pump was the source of infection and had the handle removed to stop locals from accessing the water supply. The cause of the spread was sewage leaking into the water supply via a local cesspit.\
+\
+Snow’s work is a pioneering contribution to epidemiology and is still used as a case study in the field.\
+\
+Map courtesy of the [Wellcome Collection](https://wellcomecollection.org/works/uxgfjt62) Public Domain
+[Follow this link to see John Snow's report](https://www.gutenberg.org/files/66507/66507-h/66507-h.htm)
+       
+<param ve-image 
+       label="A map taken from a report by Dr. John Snow."
+       description="illustration" 
+       url="https://user-images.githubusercontent.com/110464039/207323356-a7759951-3ae4-405e-95ee-e3aae214ac67.jpg">
+       
+       
+## The Great Stink, 1858 
+
+
