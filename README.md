@@ -34,7 +34,7 @@ The government introduced some measures to prevent the plague from spreading, in
 <param ve-image 
        label="Diseases and casualties 15-22 August 1665. Bills of Mortality recorded the causes of deaths and were published weekly. 7,000 Londoners died in a week at the plague’s peak. Image courtesy of the Wellcome Collection. Public Domain"
        description="photograph" 
-       url="https://user-images.githubusercontent.com/110464039/206763023-27143057-fc8e-43dc-8b1b-e94fe420851c.jpg">
+       url="https://user-images.githubusercontent.com/110464039/207378315-57cf8029-e43a-48c9-848f-f3c7bff7d349.jpg">
 
 
 ## Samuel Pepys; selected and edited by Robert Latham, The Illustrated Pepys, 1979
