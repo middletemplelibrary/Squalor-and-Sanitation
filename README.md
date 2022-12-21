@@ -373,7 +373,7 @@ Letter dated 3rd May 1870: Burton Yeates & Hart and Park Nelson, representing th
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/207356815-3ff06fa4-e6f1-4624-b0bc-f81f849da905.JPG">
 
-## Timeline
+##
 
 This is a timeline of events 
 
