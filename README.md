@@ -375,7 +375,7 @@ Letter dated 3rd May 1870: Burton Yeates & Hart and Park Nelson, representing th
 
 ##
 
-This is a timeline of events 
+In 2022, the UK Covid-19 Inquiry commenced. The focus of the independent public inquiry is to examine the government’s response and preparations in managing the Coronavirus pandemic. It will take some time before the complete findings of this report are published. For now, we can review previous pandemics to see the measures the government has taken in the past.
 
 <param ve-iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1NC3WhM7lR2TrPwoK8QXQsI6Ql2Eh9C3B_RhOTFtQScw&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'>
 
