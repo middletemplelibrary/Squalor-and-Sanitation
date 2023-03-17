@@ -306,7 +306,8 @@ On 25 June, a memorandum was sent to the Under-Treasurer reporting that the Libr
        
 ## Joseph Bazalgette (1819-1891)
 
-Sir Joseph Bazalgette was the civil engineer charged with developing London’s new drainage system. Work on the ambitious project began in 1859, and the project was complete by 1875. The new sewers drastically improved Londoners’ health and much of the system is still in use today. It also physically changed the appearance of riverside London and the River Thames.<br><br>
+Sir Joseph Bazalgette was the civil engineer charged with developing London’s new drainage system. Work on the ambitious project began in 1859, and the project was complete by 1875. The new sewers drastically improved Londoners’ health and much of the system is still in use today. It also physically changed the appearance of riverside London and the River Thames.
+<br><br>
 150 years later Bazalgette’s sewers are no longer sufficient to adequately carry the sewage that leaves the city and once again, the Thames River is the recipient of overflow. A private enterprise project, Tideway, is now charged with building a 25km super sewer under the capital, creating seven new embankment spaces, including one to be named the Bazalgette Embankment.
 
 <param ve-image
