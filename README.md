@@ -264,8 +264,10 @@ Snow convinced local authorities the pump was the source of infection and had th
 <br><br>
 Snow’s work is a pioneering contribution to epidemiology and is still used as a case study in the field.
 <br><br>
-Map courtesy of the [Wellcome Collection](https://wellcomecollection.org/works/uxgfjt62) Public Domain
 [Follow this link to see John Snow's report](https://www.gutenberg.org/files/66507/66507-h/66507-h.htm)
+<br><br>
+Map courtesy of the [Wellcome Collection](https://wellcomecollection.org/works/uxgfjt62) Public Domain
+
        
 <param ve-image 
        label="A map taken from a report by Dr. John Snow."
@@ -308,7 +310,7 @@ Sir Joseph Bazalgette was the civil engineer charged with developing London’s 
 <br><br>
 150 years later Bazalgette’s sewers are no longer sufficient to adequately carry the sewage that leaves the city and once again, the Thames River is the recipient of overflow. A private enterprise project, Tideway, is now charged with building a 25km super sewer under the capital, creating seven new embankment spaces, including one to be named the Bazalgette Embankment. 
 
-<param ve-image 
+<param ve-image
        label="Sir Joseph William Bazalgette by Lock & Whitfield Woodburytype on paper mount, 1877 or before Image courtesy of the National Portrait Gallery CC BY"
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/207353327-f5189abe-bcb9-4928-84e4-8295fd29b4e5.jpg">
