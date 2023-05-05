@@ -5,7 +5,12 @@
        author="Middle Temple Library"
        banner="https://user-images.githubusercontent.com/110464039/207357393-32092f90-5d8f-49fa-bc11-7e244357ee03.jpg" 
        layout="vertical">
-      
+
+## 
+Welcome to Middle Temple Library’s exhibition on Squalor to Sanitation
+<param ve-image 
+       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
+
       
 ## Introduction: From Squalor to Sanitation
 
