@@ -9,7 +9,6 @@ Welcome to Middle Temple Library’s exhibition, Squalor to Sanitation
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
-      
 ## Introduction: From Squalor to Sanitation
 
 This exhibition explores the impact of epidemics on public health law. From plagues to the present, the display will look at the way public officials manage the spread of disease, as they try to understand the causes of illness.
@@ -22,7 +21,6 @@ Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works
        label="Monster Soup is a famed image depicting a woman horrified by the impurity of the Thames River as seen through a magnified drop of water at the bottom of her teacup. The microcosm on display is dedicated to the London Water Companies and on the bottom border of the image are the words Monster Soup commonly called Thames Water, being a correct representation of the precious stuff doled out to us! The man responsible for the image was William Heath (1795-1840), a Scottish comic artist. He produced many well-known pieces, Monster Soup being one, A Wellington Book, or the Head of the Army being another. Monster Soup was one of many artistic criticisms of the Thames." 
        description="illustration" 
        url="https://user-images.githubusercontent.com/110464039/206760551-3b694e1c-6926-46ef-886b-5f598e3297c1.jpg">
-
 
 ## Great Plague 1665-1666
 
@@ -39,7 +37,6 @@ The government introduced some measures to prevent the plague from spreading, in
        label="Diseases and casualties 15-22 August 1665. Bills of Mortality recorded the causes of deaths and were published weekly. 7,000 Londoners died in a week at the plague’s peak. Image courtesy of the Wellcome Collection. Public Domain"
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/207378315-57cf8029-e43a-48c9-848f-f3c7bff7d349.jpg">
-
 
 ## Samuel Pepys; selected and edited by Robert Latham, The Illustrated Pepys, 1979
      
@@ -62,7 +59,6 @@ Picture of Samuel Pepys courtesy of [National Portrait Gallery](https://www.npg.
        description="painting" 
        url="https://user-images.githubusercontent.com/110464039/206768880-faa48fdf-2267-413a-a157-7272ef012c27.JPG">
 
-
 ## John Scott, Narratives of two families exposed to the Great Plague of London, A.D. 1665, 1832
 
 John Scott was the vicar of North Ferriby and minister of St. Mary’s, Hull in the early 19th century.  The vicar purchased a 1722 publication titled: Due Preparations for the Plague, as Well for Soul as Body from a London book stall around the late 18th century.
@@ -81,7 +77,6 @@ Deeply moved by the stories, Scott published this abridged version of the book, 
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/206768962-727b0c9f-04d8-4140-9823-fd1c18dca83b.JPG">
 
-
 ## The Honourable Society of the Middle Temple, Minutes of Parliament, 13th June 1665
 
 The Inn cancelled the Summer Reading and dissolved commons on Tuesday, 13th June 1665 in response to the rise in plague cases. The gates and passages between Middle and Inner Temple were ordered to be ‘made up’.
@@ -92,7 +87,6 @@ The Inn’s Parliament reconvened the following February once the royal court re
        label="Parliament Book featuring 13th June declaration to dissolve commons"
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/206769470-ba218bce-bad0-4b41-8b13-72b09b3673e0.JPG">
-
 
 ## Great Fire of London, 1666
 
@@ -113,7 +107,6 @@ In contrast, the Czech artist Wenceslaus Hollar's (1607-1677) illustration depic
 <param ve-compare curtain url="https://user-images.githubusercontent.com/110464039/207289262-96e9240c-b2dd-4bdb-8b24-ba5cf180dbce.JPG" label="Visscher's engraving" description="photograph">
 <param ve-compare url="https://user-images.githubusercontent.com/110464039/207289391-f89c2467-3e9f-4508-8ea9-aafbd881a266.JPG" label="Hollar's illustration" description="photograph">
 
-
 ## Thomas Pennant, Of London, 1790
 
 Thomas Pennant (1726-1798) was a writer, antiquarian and naturalist; British Zoology and The History of Quadrupeds, being among his acclaimed publications on natural history. He also travelled throughout the British Isles and published an observational account, Of London, in 1790. The work traces the capital both chronologically and geographically, and includes this passage on the benefits resulting from the Great Fire of London.
@@ -133,7 +126,6 @@ Image of Pennant © [National Portrait Gallery](https://www.npg.org.uk/collectio
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/207301160-87b89a78-9bbf-448b-a567-43aa29691222.JPG">
 
-
 ## Industrial Revolution, 1733 – 1913
                                                                                                                    
 During the industrial revolution the country moved from an agrarian society to one focused on manufacturing and industry. The nation was slowly becoming wealthier, and huge migrations of people flocked to the city for better wages. Between 1800 and 1850 London’s population doubled to over 2.5 million people.
@@ -148,7 +140,6 @@ At the time, the government adopted a laissez-faire approach to governing, not w
        label="One of Gustave Doré famous prints, showing the slums of London. The title of the piece is Over London-by Rail and depicts an overcrowded tenement block with washing in the back gardens. This was one of 180 images to appear in Doré’s collection London: A Pilgrimage."
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/207303241-4df850a1-8d34-4978-813f-14f5e3c7ff3f.jpg">
-
 
 ## Sir Edwin Chadwick (1800-1890)
                                                                                                                    
@@ -165,7 +156,6 @@ Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/207303311-a529e60d-0fb3-4065-aed9-72af3bee83e3.jpg">
                                                                                                                    
-
 ## Sir Edwin Chadwick, Report to Her Majesty's principal secretary of state for the Home Department from the Poor Law Commissioners, on an inquiry into the sanitary condition of the labouring population of Great Britain; with appendices. Presented to both Houses of Parliament, by command of Her Majesty, July, 1842
                                                                                                                    
 “I am constantly shocked almost beyond endurance at the filth and misery in which a large part of our population are permitted to drag on a diseased and miserable existence.”<br>
@@ -184,7 +174,6 @@ Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works
        description="photograph" 
        url="https://iiif.wellcomecollection.org/image/L0008334/full/1338%2C/0/default.jpg">
 
-
 ## Hansard 1848, Public Health debate
                                     
 Edwin Chadwick’s Report on the Sanitary Condition of the Labouring Population of Great Britain recommended improving drainage and sewers, as well as providing clean drinking water. The report also said a medical officer should be appointed for each town.
@@ -201,7 +190,6 @@ As the Public Health Bill was debated in Parliament there were ongoing concerns 
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/207315165-1004ac9d-5aba-43be-a231-f42c23fdda4e.JPG">
                                     
-
 ## The Statutes of the United Kingdom of Great Britain and Ireland, 1849
                                     
 The Public Health Act 1848 received Royal Assent on 31st August 1848. The Act established a Central Board of Health, with the responsibility of improving living conditions in ‘towns and populous places’ in England and Wales by establishing local boards of health.
@@ -212,8 +200,7 @@ The boards of health were charged with providing clean water, sewerage, paving a
        label="Public Health Act 1848"
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/207315798-9d8029a4-04df-4f52-855d-119ed9b342e6.JPG">
-                                    
-                                    
+                                                            
 ## Robert Callis, The reading of that famous and learned gentleman, Robert Callis Esq; sergeant at law, upon the statute of 23 H.8. Cap. 5. of sewers: as it was delivered by him at Grays-Inn, in August, 1622, 1824 
                                     
 Robert Callis: ‘we must conceive that these laws of Sewers are of great and urgent necessity and use for the good of the whole Commonwealth of the Realm.’\
@@ -230,7 +217,6 @@ This haphazard sewer management continued into the 19th century. At this time, h
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/207316265-bb558f99-f42a-4395-a5d2-70513a6c041d.JPG">             
 
-
 ## Cholera Outbreaks, 1832, 1849 and 1854
                                     
 Three major outbreaks of cholera occurred in the 19th century. Beginning in 1831, cholera arrived on the shores of England as British troops returned from the Indian sub-continent to Europe.
@@ -245,8 +231,7 @@ Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works
        label="A court for King Cholera"
        description="illustration" 
        url="https://iiif.wellcomecollection.org/image/L0086428/full/1338%2C/0/default.jpg">   
-                                    
-                                    
+                                                         
 ## John Snow (1813-1858)
                                     
 John Snow is considered a pioneer of epidemiology. As a medical practitioner, he was interested in many areas of medicine, such as anaesthesia and respiratory diseases, but his most well-known work is the research he carried out during an outbreak of cholera in Soho, 1854.
@@ -256,8 +241,7 @@ Unlike many at the time, he did not believe in the miasma theory, which posited 
 <param ve-image 
        label="John Snow, M.D. : a representative of medical science and art of the Victorian era / [Benjamin Ward Richardson]. 1887 CC BY"
        description="illustration" 
-       url="https://user-images.githubusercontent.com/110464039/207321196-0df14783-f02c-41a9-ab85-effdf1444465.jpg">   
-                                    
+       url="https://user-images.githubusercontent.com/110464039/207321196-0df14783-f02c-41a9-ab85-effdf1444465.jpg">                               
                                     
 ## John Snow, Map from a Report on the cholera outbreak in the Parish of St. James, Westminster, during the autumn of 1854, 1855
                                     
@@ -270,13 +254,11 @@ Snow’s work is a pioneering contribution to epidemiology and is still used as 
 [Follow this link to see John Snow's report](https://www.gutenberg.org/files/66507/66507-h/66507-h.htm)
 <br><br>
 Map courtesy of the [Wellcome Collection](https://wellcomecollection.org/works/uxgfjt62) Public Domain
-
        
 <param ve-image 
        label="A map taken from a report by Dr. John Snow."
        description="illustration" 
        url="https://user-images.githubusercontent.com/110464039/207323356-a7759951-3ae4-405e-95ee-e3aae214ac67.jpg">
-       
        
 ## The Great Stink, 1858 
 
@@ -296,7 +278,6 @@ In just 18 days, a bill was passed providing money to construct a massive new se
        description="illustration" 
        url="https://user-images.githubusercontent.com/110464039/207347464-af0c61cb-89b1-455f-bb75-d1b0334183f1.JPG">
        
-       
 ## Memorandum to the Under-Treasurer requesting chloride of lime for the Library during the Great Stink, 25 June 1858 
 
 On 25 June, a memorandum was sent to the Under-Treasurer reporting that the Librarian was, 'in common with the gentlemen frequenting the Library, greatly annoyed by the offensive state of the Thames water', and requesting that chloride of lime be placed in the Library.
@@ -305,7 +286,6 @@ On 25 June, a memorandum was sent to the Under-Treasurer reporting that the Libr
        label="Memorandum to the Under-Treasurer, 25 June 1858"
        description="illustration" 
        url="https://user-images.githubusercontent.com/110464039/207351976-945fdbd1-dfcd-4245-b819-f2364e38d918.JPG">
-       
        
 ## Joseph Bazalgette (1819-1891)
 
@@ -317,7 +297,6 @@ Sir Joseph Bazalgette was the civil engineer charged with developing London’s 
        label="Sir Joseph William Bazalgette by Lock & Whitfield Woodburytype on paper mount, 1877 or before Image courtesy of the National Portrait Gallery CC BY"
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/207353327-f5189abe-bcb9-4928-84e4-8295fd29b4e5.jpg">
-
 
 ## London in 1850. The Temple 
 
@@ -345,7 +324,6 @@ Depicts the sewer’s progress. The former Middle Temple Library is in view on t
        label="Progress of Thames Embankment"
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/207355542-07a3bfdc-1baf-40d6-bd81-4b52ef035235.jpg">
-
 
 ## Letters between Metropolitan Board of Works and the Inn, 1868-1870
 
@@ -381,9 +359,8 @@ Letter dated 3rd May 1870: Burton Yeates & Hart and Park Nelson, representing th
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/207356815-3ff06fa4-e6f1-4624-b0bc-f81f849da905.JPG">
 
-##
+## Public Health and the Present
 
-In 2022, the UK Covid-19 Inquiry commenced. The focus of the independent public inquiry is to examine the government’s response and preparations in managing the Coronavirus pandemic. It will take some time before the complete findings of this report are published. For now, we can review previous pandemics to see the measures the government has taken in the past.
+In recent times, COVID-19 has given us a good idea in real time of the management of epidemics and government response. COVID is still lingering and the immediate responses to it will still take some time to analyse to decide on the errors made. In 2022, the UK Covid-19 Inquiry commenced. The focus of the independent public inquiry is to examine the government’s response and preparations in managing the Coronavirus pandemic. It will take some time before the complete findings of this report are published. For now, we can review previous pandemics to see if any lessons have been learned. 
 
 <param ve-iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1NC3WhM7lR2TrPwoK8QXQsI6Ql2Eh9C3B_RhOTFtQScw&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'>
-
